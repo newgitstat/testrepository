@@ -1,4 +1,3 @@
-# testrepository
 Test git project
 ================
 
@@ -14,3 +13,13 @@ INSTALLATION
     style.css
       
 
+WHAT'S NEXT
+-----------
+
+Please visit the project website 
+
+### Адрес сайта
+
+<http://google.ru>
+
+[Проверка связи:)](<http://google.ru>)
