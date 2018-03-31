@@ -22,4 +22,5 @@ Please visit the project website
 
 <http://google.ru>
 
-[Проверка связи:)](<http://google.ru>)
+[![Проверка связи:)](<http://google.ru>)]
+ 
