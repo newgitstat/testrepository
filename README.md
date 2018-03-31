@@ -22,7 +22,7 @@ Please visit the project website
 
 <http://google.ru>
 
-[![Проверка связи:)](<http://google.ru>)]
+[![Проверка связи](<http://google.ru>)]
 
 [![Build Status](https://secure.travis-ci.org/yiisoft/yii.png)](http://travis-ci.org/yiisoft/yii)
  
