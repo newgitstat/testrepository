@@ -1,1 +1,4 @@
 # testrepository
+
+INSTALLATION
+------------
